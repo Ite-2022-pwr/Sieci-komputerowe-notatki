@@ -4,6 +4,7 @@
 - [dr inż. Maciej Sobieraj - Rozdział 6: Sieci VLAN](http://maciej.sobieraj.pracownik.put.poznan.pl/W04_TAPS.pdf)
 - [dr inż. Maciej Sobieraj - Przełączniki](http://maciej.sobieraj.pracownik.put.poznan.pl/W03_TAPS.pdf)
 - [Network Engineer Academy - CCNA | What's a VLAN PART 1. DETAIL EXPLANATION with LAB. MUST WATCH.](https://www.youtube.com/watch?v=jJYluxDgz3A)
+- [KN White Hats - Hopsanie po sieciach VLAN](https://whitehats.pwr.edu.pl/research/vlan-hopping/)
 
 **Spis treści**
 - [Sieci VLAN](#sieci-vlan)
