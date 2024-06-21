@@ -3,7 +3,7 @@
 - [Adresy IPv4](./sieci_notatki/Adresy_IPv4.md)
 - [Sieci komputerowe (wprowadzenie)](./sieci_notatki/Wprowadzenie.md)
 - [Podstawowa kofiguracja urządzeń Cisco (ściągawka)](./sieci_notatki/Podstawowa_kofiguracja_urzadzen_cisco.md)
-- [Odwzorowanie adresów IPv4](./sieci_notatki/arp.md)
+- [Odwzorowanie adresów IPv4 (protokół ARP)](./sieci_notatki/arp.md)
 - [Przełączanie](./sieci_notatki/Przelaczanie.md)
 - [Sieci VLAN](./sieci_notatki/vlan.md)
 - [Spanning Tree Protocol](./sieci_notatki/stp.md)
